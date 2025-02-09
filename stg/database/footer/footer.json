@@ -1,0 +1,44 @@
+[
+    {
+        "column": "Play Store",
+        "items": [
+            {
+                "title": "Escape Run",
+                "url": "https://play.google.com/store/apps/details?id=com.dhimanp.EscapeRun"
+            },
+            {
+                "title": "PinBall Planet",
+                "url": "https://play.google.com/store/apps/details?id=com.dhimanp.PinBallPlanet"
+            },
+            {
+                "title": "Count My Cash",
+                "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash"
+            },
+            {
+                "title": "Guessing The Number",
+                "url": "https://play.google.com/store/apps/details?id=com.dhimanp.GuessingTheNumber"
+            }
+        ]
+    },
+    {
+        "column": "dhimanp Store",
+        "items": [
+            {
+                "title": "Learn GST Challan",
+                "routerLink": "/store/apps/learn-gst-echallan"
+            },
+            {
+                "title": "Blogs",
+                "routerLink": "/blogs"
+            },
+            {
+                "title": "Motivational Quotes",
+                "routerLink": "/store/apps/motivational-quotes"
+            },
+            {
+                "title": "Internet Speed Test",
+                "routerLink": "/store/apps/internet-speed-test"
+            }
+        ]
+    }
+]
