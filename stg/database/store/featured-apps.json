@@ -1,0 +1,36 @@
+[
+    {
+        "id": "count-my-cash",
+        "appId": "count-my-cash",
+        "title": "Count My Cash",
+        "featuredText": "Take control of your finances!",
+        "priority": 1,
+        "isTextOnly": true,
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash",
+        "actionTitle": "Install From Play Store",
+        "bannerImageLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/qr-code-generator.webp",
+        "bannerImageSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/count-my-cash-banner.png",
+        "appIcon": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/qr-code-generator.webp",
+        "priceModel": "Free",
+        "category": "Android",
+        "shortDescription": "Loan, GST, Cash, SIP Calculators.",
+        "type": "Play Store"
+    },
+    {
+        "id": "qr-code-generator",
+        "appId": "qr-code-generator",
+        "title": "QR Code Generator",
+        "featuredText": "Generate QR codes easily.",
+        "priority": 1,
+        "isTextOnly": false,
+        "routerLink": "/store/apps/qr-code-generator",
+        "actionTitle": "Explore Now",
+        "bannerImageLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/qr-code-generator.webp",
+        "bannerImageSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/count-my-cash-banner.png",
+        "appIcon": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/qr-code-generator.webp",
+        "priceModel": "Free",
+        "category": "Play Store",
+        "shortDescription": "Loan, GST, Cash, SIP Calculators.",
+        "type": "Play Store"
+    }
+]
