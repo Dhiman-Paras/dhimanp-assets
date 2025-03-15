@@ -24,12 +24,12 @@
         "column": "dhimanp Store",
         "items": [
             {
-                "title": "Blogs",
-                "routerLink": "/blogs"
-            },
-            {
                 "title": "Learn GST Challan",
                 "routerLink": "/store/apps/learn-gst-echallan"
+            },
+            {
+                "title": "Blogs",
+                "routerLink": "/blogs"
             },
             {
                 "title": "Motivational Quotes",
