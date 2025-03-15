@@ -1,126 +1,167 @@
 [
     {
-        "id": "b09fe903-065c-4171-9448-acfd1e485db3",
-        "title": "Count My Cash",
-        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash",
-        "featureIconLg": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
-        "featureIconSm": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
-        "iconLg": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
-        "iconSm": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
-        "type": "Play Store",
-        "shortDescription": "Loan, GST, Cash, SIP Calculators.",
+        "id": "6da76d75-8b36-4278-8170-affc976fef57",
+        "title": "Blogs",
+        "routerLink": "/blogs",
+        "featureIconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/blogs/blogs.webp",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/blogs/blogs-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/blogs/blogs-icon.webp",
+        "type": "Daily Hub",
+        "shortDescription": "Read insightful blogs & articles.",
         "version": "1.0.0",
         "rating": 5,
         "isFavorite": false,
         "isAddedToHome": true,
-        "category": "Play Store",
+        "cta": "ExploreNow",
+        "category": "Reading & Knowledge",
         "tags": [
-            "Finances"
+            "Birthday Wishes"
         ],
         "priceModel": "Free",
-        "developer": "dhimanp"
-    },
-    {
-        "id": "internet-speed-test",
-        "title": "InternetSpeedTest",
-        "routerLink": "/store/apps/internet-speed-test",
-        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/internet-speed-test.webp",
-        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/internet-speed-test.webp",
-        "type": "App",
-        "shortDescription": "Check your internet speed instantly.",
-        "version": "1.0.0",
-        "rating": 5,
-        "isFavorite": true,
-        "isAddedToHome": true,
-        "category": "Utility",
-        "tags": [
-            "Internet Speed Test"
-        ],
-        "priceModel": "Free",
-        "developer": "dhimanp"
-    },
-    {
-        "id": "password-generator",
-        "title": "PasswordGenerator",
-        "routerLink": "/store/apps/password-generator",
-        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/password-generator-web-app.webp",
-        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/password-generator-web-app.webp",
-        "type": "App",
-        "shortDescription": "Generate strong & secure passwords.",
-        "version": "1.0.0",
-        "rating": 5,
-        "isFavorite": false,
-        "isAddedToHome": true,
-        "category": "Utility",
-        "tags": [
-            "Security"
-        ],
-        "priceModel": "Free",
-        "developer": "dhimanp"
-    },
-    {
-        "id": "guid-generator",
-        "title": "Guid-Generator",
-        "routerLink": "/store/apps/guid-generator",
-        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/guid-generator-web-app.webp",
-        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/guid-generator-web-app.webp",
-        "type": "App",
-        "shortDescription": "Create unique GUIDs effortlessly.",
-        "version": "1.0.0",
-        "rating": 5,
-        "isFavorite": false,
-        "isAddedToHome": true,
-        "category": "Utility",
-        "tags": [
-            "Development"
-        ],
-        "priceModel": "Free",
-        "developer": "dhimanp"
+        "developer": "dhimanp",
+        "isAndroidApp": false
     },
     {
         "id": "qr-code-generator",
         "title": "QR Code Generator",
         "routerLink": "/store/apps/qr-code-generator",
-        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/qr-code-generator.webp",
-        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/qr-code-generator.webp",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/qr-code-generator/qr-code-generator.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/qr-code-generator/qr-code-generator.webp",
         "type": "App",
         "shortDescription": "Generate QR codes easily.",
         "version": "1.0.0",
         "rating": 5,
         "isFavorite": false,
         "isAddedToHome": true,
-        "category": "Utility",
+        "category": "Productivity",
         "tags": [
             "QR Code"
         ],
         "priceModel": "Free",
-        "developer": "dhimanp"
+        "developer": "dhimanp",
+        "isAndroidApp": false
     },
     {
-        "id": "notes",
-        "title": "Notes",
-        "routerLink": "/store/apps/notes",
-        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/textimonia.webp",
-        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/textimonia.webp",
+        "id": "a3fea368-8a3b-4011-adee-f0eb7eff32f1",
+        "title": "Loan Calculator",
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash",
+        "featureIconLg": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "featureIconSm": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/count-my-cash-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/count-my-cash-icon.webp",
         "type": "App",
-        "shortDescription": "Convert text to speech & save files.",
+        "shortDescription": "Loan Calculator | Count My Cash",
         "version": "1.0.0",
         "rating": 5,
         "isFavorite": false,
         "isAddedToHome": true,
-        "category": "Utility",
+        "category": "Productivity",
+        "cta": "InstallFromPlayStore",
         "tags": [
-            "Text-to-Speech"
+            "Finances"
         ],
         "priceModel": "Free",
-        "developer": "dhimanp"
+        "developer": "dhimanp",
+        "isAndroidApp": true
+    },
+    {
+        "id": "0faf708e-c40e-4536-927a-e30deef0bd37",
+        "title": "GST Calculator",
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash",
+        "featureIconLg": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "featureIconSm": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/count-my-cash-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/count-my-cash-icon.webp",
+        "type": "App",
+        "shortDescription": "GST Calculator | Count My Cash",
+        "version": "1.0.0",
+        "rating": 5,
+        "isFavorite": false,
+        "isAddedToHome": true,
+        "category": "Productivity",
+        "cta": "InstallFromPlayStore",
+        "tags": [
+            "Finances"
+        ],
+        "priceModel": "Free",
+        "developer": "dhimanp",
+        "isAndroidApp": true
+    },
+    {
+        "id": "53e8df4f-d99c-4240-926e-995bdcf1adbe",
+        "title": "Cash Calculator",
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash",
+        "featureIconLg": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "featureIconSm": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/count-my-cash-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/count-my-cash-icon.webp",
+        "type": "App",
+        "shortDescription": "Cash Calculator | Count My Cash",
+        "version": "1.0.0",
+        "rating": 5,
+        "isFavorite": false,
+        "isAddedToHome": true,
+        "category": "Productivity",
+        "cta": "InstallFromPlayStore",
+        "tags": [
+            "Finances"
+        ],
+        "priceModel": "Free",
+        "developer": "dhimanp",
+        "isAndroidApp": true
+    },
+    {
+        "id": "0ab11c5c-dbdd-4670-9e41-37913957c7f2",
+        "title": "SIP Calculator",
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash",
+        "featureIconLg": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "featureIconSm": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/count-my-cash-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/count-my-cash-icon.webp",
+        "type": "App",
+        "shortDescription": "SPI Calculator | Count My Cash",
+        "version": "1.0.0",
+        "rating": 5,
+        "isFavorite": false,
+        "isAddedToHome": true,
+        "category": "Productivity",
+        "cta": "InstallFromPlayStore",
+        "tags": [
+            "Finances"
+        ],
+        "priceModel": "Free",
+        "developer": "dhimanp",
+        "isAndroidApp": true
+    },
+    {
+        "id": "b09fe903-065c-4171-9448-acfd1e485db3",
+        "title": "Count My Cash",
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash",
+        "featureIconLg": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "featureIconSm": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/count-my-cash-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/count-my-cash-icon.webp",
+        "type": "App",
+        "shortDescription": "Loan, GST, Cash, SIP Calculators.",
+        "version": "1.0.0",
+        "rating": 5,
+        "isFavorite": false,
+        "isAddedToHome": true,
+        "category": "Productivity",
+        "cta": "InstallFromPlayStore",
+        "tags": [
+            "Finances"
+        ],
+        "priceModel": "Free",
+        "developer": "dhimanp",
+        "isAndroidApp": true
     },
     {
         "id": "learn-gst-challan",
         "title": "Learn GST Challan",
         "routerLink": "/store/apps/learn-gst-echallan",
-        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/learn-gst-challan-app-icon.webp",
-        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/learn-gst-challan-app-icon.webp",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/learn-gst-challan/learn-gst-challan-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/learn-gst-challan/learn-gst-challan-icon.webp",
         "type": "App",
         "shortDescription": "Master GST challan generation.",
         "version": "1.0.0",
@@ -130,10 +171,33 @@
         "category": "Education & Learning",
         "tags": [
             "Education",
-            "Learning"
+            "Learning",
+            "GST Challan"
         ],
         "priceModel": "Free",
-        "developer": "dhimanp"
+        "developer": "dhimanp",
+        "isAndroidApp": false
+    },
+    {
+        "id": "motivational-quotes",
+        "title": "Motivational Quotes",
+        "routerLink": "/store/apps/motivational-quotes",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/motivational-quotes/motivational-quotes-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/motivational-quotes/motivational-quotes-icon.webp",
+        "type": "Daily Hub",
+        "shortDescription": "Daily inspiration for success.",
+        "version": "1.0.0",
+        "rating": 5,
+        "isFavorite": false,
+        "isAddedToHome": true,
+        "category": "Inspiration & Motivation",
+        "tags": [
+            "Inspiration",
+            "Motivation"
+        ],
+        "priceModel": "Free",
+        "developer": "dhimanp",
+        "isAndroidApp": false
     },
     {
         "id": "birthday-wishes",
@@ -142,7 +206,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/birthday-wishes/birthday-wishes-icon.webp",
         "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/birthday-wishes/birthday-wishes-icon.webp",
         "type": "Daily Hub",
-        "shortDescription": "Send creative birthday messages.",
+        "shortDescription": "Creative birthday messages.",
         "version": "1.0.0",
         "rating": 5,
         "isFavorite": false,
@@ -152,34 +216,133 @@
             "Birthday Wishes"
         ],
         "priceModel": "Free",
-        "developer": "dhimanp"
+        "developer": "dhimanp",
+        "isAndroidApp": false
     },
     {
-        "id": "motivational-quotes",
-        "title": "Motivational Quotes",
-        "routerLink": "/store/apps/motivational-quotes",
-        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/motivational-quotes-app-icon.webp",
-        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/motivational-quotes-app-icon.webp",
-        "type": "Daily Hub",
-        "shortDescription": "Daily inspiration for success.",
+        "id": "notes",
+        "title": "Notes",
+        "routerLink": "/store/apps/notes",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/notes/notes-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/notes/notes-icon.webp",
+        "type": "App",
+        "shortDescription": "Make Notes instantly & save as files.",
         "version": "1.0.0",
         "rating": 5,
         "isFavorite": false,
         "isAddedToHome": true,
-        "category": "Inspiration & Motivation",
+        "category": "Productivity",
         "tags": [
-            "Motivation"
+            "Text-to-Speech",
+            "Notes",
+            "Download"
         ],
         "priceModel": "Free",
-        "developer": "dhimanp"
+        "developer": "dhimanp",
+        "isAndroidApp": false
+    },
+    {
+        "id": "ddabe8d4-af67-43d9-9422-f6bce0ff6327",
+        "title": "Escape Run",
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.EscapeRun",
+        "featureIconLg": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "featureIconSm": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/escape-run/escape-run-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/escape-run/escape-run-icon.webp",
+        "type": "Game",
+        "shortDescription": "An endless runner video game",
+        "version": "1.0.0",
+        "rating": 5,
+        "isFavorite": false,
+        "isAddedToHome": true,
+        "category": "Arcade",
+        "cta": "InstallFromPlayStore",
+        "tags": [
+            "Arcade",
+            "Game",
+            "Play Store"
+        ],
+        "priceModel": "Free",
+        "developer": "dhimanp",
+        "isAndroidApp": true
+    },
+    {
+        "id": "8127a951-ffd4-4854-a716-81518ab27ba1",
+        "title": "PinBall Planet",
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.PinBallPlanet",
+        "featureIconLg": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "featureIconSm": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/pinball-planet/pinball-planet-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/pinball-planet/pinball-planet-icon.webp",
+        "type": "Game",
+        "shortDescription": "Pinball games for android devices",
+        "version": "1.0.0",
+        "rating": 5,
+        "isFavorite": false,
+        "isAddedToHome": true,
+        "category": "Arcade",
+        "cta": "InstallFromPlayStore",
+        "tags": [
+            "Pinball",
+            "Game",
+            "Play Store"
+        ],
+        "priceModel": "Free",
+        "developer": "dhimanp",
+        "isAndroidApp": true
+    },
+    {
+        "id": "ce56810a-f629-4b77-9911-f04bcaf5b0d3",
+        "title": "Guessing The Number",
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.GuessingTheNumber",
+        "featureIconLg": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "featureIconSm": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/guessing-the-number/cguessing-the-number.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/guessing-the-number/guessing-the-number.webp",
+        "type": "Game",
+        "shortDescription": "A fun number-guessing game for learning to counting!",
+        "version": "1.0.0",
+        "rating": 5,
+        "isFavorite": false,
+        "isAddedToHome": true,
+        "category": "Educational",
+        "cta": "InstallFromPlayStore",
+        "tags": [
+            "Educational",
+            "Game",
+            "Play Store"
+        ],
+        "priceModel": "Free",
+        "developer": "dhimanp",
+        "isAndroidApp": true
+    },
+    {
+        "id": "internet-speed-test",
+        "title": "InternetSpeedTest",
+        "routerLink": "/store/apps/internet-speed-test",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/internet-speed-test/internet-speed-test-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/internet-speed-test/internet-speed-test-icon.webp",
+        "type": "App",
+        "shortDescription": "Check your internet speed instantly.",
+        "version": "1.0.0",
+        "rating": 5,
+        "isFavorite": true,
+        "isAddedToHome": true,
+        "category": "Productivity",
+        "tags": [
+            "Internet Speed Test"
+        ],
+        "priceModel": "Free",
+        "developer": "dhimanp",
+        "isAndroidApp": false
     },
     {
         "id": "b09fe903-065c-4171-9448-acfd1e485dbd",
         "title": "Courses",
         "routerLink": "/courses",
         "featureIconLg": "https://img.freepik.com/free-photo/close-up-woman-s-hand-holding-white-capital-alphabet-c_23-2148188527.jpg?semt=ais_user",
-        "iconLg": "https://img.freepik.com/free-photo/close-up-woman-s-hand-holding-white-capital-alphabet-c_23-2148188527.jpg?semt=ais_user",
-        "iconSm": "https://img.freepik.com/free-photo/close-up-woman-s-hand-holding-white-capital-alphabet-c_23-2148188527.jpg?semt=ais_user",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/courses/courses-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/courses/courses-icon.webp",
         "type": "Daily Hub",
         "shortDescription": "Explore courses for career growth.",
         "version": "1.0.0",
@@ -187,30 +350,54 @@
         "isFavorite": false,
         "isAddedToHome": true,
         "category": "Reading & Knowledge",
+        "cta": "ExploreNow",
         "tags": [
             "Birthday Wishes"
         ],
         "priceModel": "Free",
-        "developer": "dhimanp"
+        "developer": "dhimanp",
+        "isAndroidApp": false
     },
     {
-        "id": "6da76d75-8b36-4278-8170-affc976fef57",
-        "title": "Blogs",
-        "routerLink": "/blogs",
-        "featureIconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/blogs/blogs.webp",
-        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/blogs/blogs.webp",
-        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/blogs/blogs.webp",
-        "type": "Daily Hub",
-        "shortDescription": "Read insightful blogs & articles.",
+        "id": "password-generator",
+        "title": "PasswordGenerator",
+        "routerLink": "/store/apps/password-generator",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/password-generator/password-generator-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/password-generator/password-generator-icon.webp",
+        "type": "App",
+        "shortDescription": "Generate strong & secure passwords.",
         "version": "1.0.0",
         "rating": 5,
         "isFavorite": false,
         "isAddedToHome": true,
-        "category": "Reading & Knowledge",
+        "category": "Productivity",
         "tags": [
-            "Birthday Wishes"
+            "Security",
+            "Password Generator"
         ],
         "priceModel": "Free",
-        "developer": "dhimanp"
+        "developer": "dhimanp",
+        "isAndroidApp": false
+    },
+    {
+        "id": "guid-generator",
+        "title": "Guid-Generator",
+        "routerLink": "/store/apps/guid-generator",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/guid-generator/guid-generator-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/guid-generator/guid-generator-icon.webp",
+        "type": "App",
+        "shortDescription": "Create unique GUIDs effortlessly.",
+        "version": "1.0.0",
+        "rating": 5,
+        "isFavorite": false,
+        "isAddedToHome": true,
+        "category": "Productivity",
+        "tags": [
+            "Development",
+            "Productivity"
+        ],
+        "priceModel": "Free",
+        "developer": "dhimanp",
+        "isAndroidApp": false
     }
 ]
