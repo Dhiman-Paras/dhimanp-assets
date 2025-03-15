@@ -97,9 +97,9 @@
         "developer": "dhimanp"
     },
     {
-        "id": "textimonia",
-        "title": "Textimonia",
-        "routerLink": "/store/apps/textimonia",
+        "id": "notes",
+        "title": "Notes",
+        "routerLink": "/store/apps/notes",
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/textimonia.webp",
         "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/textimonia.webp",
         "type": "App",
@@ -139,8 +139,8 @@
         "id": "birthday-wishes",
         "title": "Birthday Wishes",
         "routerLink": "/store/apps/birthday-wishes",
-        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/birthday-wishes-app-icon.webp",
-        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/web-apps/birthday-wishes-app-icon.webp",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/birthday-wishes/birthday-wishes-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/birthday-wishes/birthday-wishes-icon.webp",
         "type": "Daily Hub",
         "shortDescription": "Send creative birthday messages.",
         "version": "1.0.0",
@@ -176,7 +176,7 @@
     {
         "id": "b09fe903-065c-4171-9448-acfd1e485dbd",
         "title": "Courses",
-        "routerLink": "/learning",
+        "routerLink": "/courses",
         "featureIconLg": "https://img.freepik.com/free-photo/close-up-woman-s-hand-holding-white-capital-alphabet-c_23-2148188527.jpg?semt=ais_user",
         "iconLg": "https://img.freepik.com/free-photo/close-up-woman-s-hand-holding-white-capital-alphabet-c_23-2148188527.jpg?semt=ais_user",
         "iconSm": "https://img.freepik.com/free-photo/close-up-woman-s-hand-holding-white-capital-alphabet-c_23-2148188527.jpg?semt=ais_user",
