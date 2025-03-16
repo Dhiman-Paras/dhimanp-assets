@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Explore QR Code Generator",
+        "photoLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/stg/images/apps/qr-code-generator/generate-qr-code-detailed-lg.webp",
+        "photo": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/stg/images/apps/qr-code-generator/generate-qr-code-detailed.webp",
+        "description": "Generate QR codes instantly. Fast, easy, and secure QR code creation on the go! 🚀",
+        "routerLink": "/store/apps/qr-code-generator"
+    },
+    {
+        "title": "Explore Count My Cash",
+        "photoLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/stg/images/apps/count-my-cash/count-my-cash-detailed-lg.webp",
+        "photo": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/stg/images/apps/count-my-cash/count-my-cash-detailed.webp",
+        "description": "All-in-One Calculator: Cash, Loan, SIP & GST – Fast, Easy & Accurate Calculations on the Go! 💰📊",
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash"
+    },
+    {
+        "title": "Learn GST Challan",
+        "photoLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/stg/images/apps/learn-gst-challan/learn-gst-challan-detailed-lg.webp",
+        "photo": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/stg/images/apps/learn-gst-challan/learn-gst-challan-detailed.webp",
+        "description": "Learn how to generate GST Challans easily with step-by-step guidance and simplify your tax payments! ✅",
+        "routerLink": "/store/apps/learn-gst-echallan"
+    }
+]
