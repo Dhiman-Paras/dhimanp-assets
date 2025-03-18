@@ -16,7 +16,7 @@
     {
         "title": "Learn GST Challan",
         "photoLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/stg/images/apps/learn-gst-challan/learn-gst-challan-detailed-lg.webp",
-        "photo": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/stg/images/apps/learn-gst-challan/learn-gst-challan-detailed.webp",
+        "photo": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/stg/images/apps/learn-gst-challan/learn-gst-challan-detailed-lg.webp",
         "description": "Learn how to generate GST Challans easily with step-by-step guidance and simplify your tax payments! ✅",
         "routerLink": "/store/apps/learn-gst-echallan"
     }
