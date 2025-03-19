@@ -8,8 +8,8 @@
     },
     {
         "title": "Explore Count My Cash",
-        "photoLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/count-my-cash-banner.png",
-        "photo":"https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/count-my-cash-banner.png",
+        "photoLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/stg/images/apps/count-my-cash/count-my-cash-detailed-lg.webp",
+        "photo": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/stg/images/apps/count-my-cash/count-my-cash-detailed.webp",
         "description": "All-in-One Calculator: Cash, Loan, SIP & GST – Fast, Easy & Accurate Calculations on the Go! 💰📊",
         "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash"
     },
