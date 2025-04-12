@@ -220,13 +220,13 @@
         "isAndroidApp": false
     },
     {
-        "id": "notes",
-        "title": "Notes",
-        "routerLink": "/store/apps/notes",
-        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/notes/notes-icon.webp",
-        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/notes/notes-icon.webp",
+        "id": "quick-file-saver",
+        "title": "Quick File Saver",
+        "routerLink": "/store/apps/quick-file-saver",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/quick-file-saver/quick-file-saver-icon.webp",
+        "iconSm": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/quick-file-saver/quick-file-saver-icon.webp",
         "type": "App",
-        "shortDescription": "Make Notes instantly & save as files.",
+        "shortDescription": "Save text & code files instantly",
         "version": "1.0.0",
         "rating": 5,
         "isFavorite": false,
@@ -235,7 +235,9 @@
         "tags": [
             "Text-to-Speech",
             "Notes",
-            "Download"
+            "Download",
+            "Save",
+            "File"
         ],
         "priceModel": "Free",
         "developer": "dhimanp",
