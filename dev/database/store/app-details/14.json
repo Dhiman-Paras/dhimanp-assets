@@ -1,0 +1,10 @@
+{
+    "id": "14",
+    "title": "Guessing The Number",
+    "featureIconLg": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+    "featureIconSm": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
+    "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/guessing-the-number/guessing-the-number-icon.webp",
+    "version": "1.0.0",
+    "rating": 5,
+    "developer": "dhimanp"
+}
