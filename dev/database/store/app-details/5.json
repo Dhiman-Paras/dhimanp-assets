@@ -5,7 +5,9 @@
     "featureIconLg": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
     "featureIconSm": "https://play-lh.googleusercontent.com/J2FGSoqpnfldbIhRD3zNLLrvrOD4zA8fQ5knaxko2UTFPnPfNhL1mrOHtN82iNBLfw=w480-h960-rw",
     "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/cash-calculator-icon.webp",
-    "version": "1.0.0",
+    "version": "2.0.2",
     "rating": 5,
-    "developer": "dhimanp"
+    "developer": "dhimanp",
+    "lastUpdate": "2025-03-30T05:30:00.000Z",
+    "publishedDate":"2022-03-31T18:30:00.000Z"
 }
