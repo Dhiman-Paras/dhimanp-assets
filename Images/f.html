@@ -1,19 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Dummy Data Page</title>
-</head>
-<body>
-  <h1>Check the console for dummy data</h1>
+<html>
 
+<head>
+</head>
+
+<body>
   <script type="module">
     import { getDummyData } from './dummyData.js';
-
     const data = getDummyData();
     if (data) {
       console.log("Dummy Data:", data);
     }
   </script>
 </body>
+
 </html>
