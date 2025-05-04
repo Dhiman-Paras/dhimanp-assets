@@ -1,8 +1,8 @@
 export function getDummyData() {
-  const allowedDomains = ["https://example.com", "https://yourproject.com"];
+  const allowedDomains = ["https://example.com", "https://yourproject.com", "http://localhost"];
   const referrer = document.referrer;
 
-  if (!allowedDomains.some(domain => referrer.startsWith(domain))) {
+  if (!referrer || !allowedDomains.some(domain => referrer.startsWith(domain))) {
     console.error("Access denied: Invalid domain");
     return null;
   }
