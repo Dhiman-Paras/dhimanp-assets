@@ -1,0 +1,13 @@
+{
+    "id": "1",
+    "title": "Blogs",
+    "featureIconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/blogs/blogs.webp",
+    "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/prod/images/apps/blogs/blogs-icon.webp",
+    "version": "1.0.0",
+    "rating": 5,
+    "developer": "dhimanp",
+    "publishedDate": "",
+    "lastUpdate": "",
+    "whatsnew": "<blockquote data-start=\"764\" data-end=\"1210\">\n    <ul data-start=\"766\" data-end=\"1210\">\n        <li data-start=\"766\" data-end=\"846\">\n            <p data-start=\"768\" data-end=\"846\">Fresh articles published weekly on emerging technologies and best practices.</p>\n        </li>\n        <li data-start=\"849\" data-end=\"973\">\n            <p data-start=\"851\" data-end=\"973\">New categories introduced for easier exploration: Tech Tutorials, Career Guides, Product Updates, and Industry Insights.</p>\n        </li>\n        <li data-start=\"976\" data-end=\"1048\">\n            <p data-start=\"978\" data-end=\"1048\">Enhanced mobile-friendly design for seamless reading on all devices.</p>\n        </li>\n        <li data-start=\"1051\" data-end=\"1123\">\n            <p data-start=\"1053\" data-end=\"1123\">Improved search functionality to quickly find topics you care about.</p>\n        </li>\n        <li data-start=\"1126\" data-end=\"1210\">\n            <p data-start=\"1128\" data-end=\"1210\">Interactive comment section added — join the conversation and share your thoughts!</p>\n        </li>\n    </ul>\n</blockquote>",
+    "longDescription": "<p><strong data-start='286' data-end='334'>Explore Knowledge, Insights, and Innovations</strong><br>Dive into the latest articles, tutorials, and thought leadership pieces across technology, software development, career growth, and digital innovation. Our blogs are crafted to inspire learning, spark ideas, and provide practical solutions — whether you're a beginner or an experienced professional. Stay updated with industry trends, expert advice, and powerful tips curated by the team at dhimanp.</p>"
+}
