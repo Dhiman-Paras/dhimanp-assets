@@ -1,0 +1,77 @@
+[
+  {
+    "serialNumber": 1,
+    "question": "What is dhimanp?",
+    "ans": "Welcome to dhimanp! We are a product-driven team creating innovative software, apps, and learning experiences. At dhimanp, we develop solutions that address real-world challenges while promoting growth and learning. Explore our products, tech blogs, courses, and games designed to inspire developers and tech enthusiasts."
+  },
+  {
+    "serialNumber": 2,
+    "question": "What topics do you cover in your blog?",
+    "ans": "<p>Our blog covers a diverse range of topics including:</p><ul><li><strong>Tips:</strong> Phone Battery Tips, Computer Tips, Super Charge yourself.</li><li><strong>Wishes:</strong> 100 Birthday wishes.</li><li><strong>Tech Tips:</strong> Best practices, coding challenges, and solutions for common issues faced by developers.</li></ul>"
+  },
+  {
+    "serialNumber": 3,
+    "question": "How do I access your web applications and software products?",
+    "ans": "You can explore our web applications and software tools directly on the site. Visit the <strong><a href=\"/store\">dhimanp store</a></strong> sections for live demos, user guides, and detailed information about each app."
+  },
+  {
+    "serialNumber": 4,
+    "question": "Is Escape Run available for all devices?",
+    "ans": "Currently, <strong>Escape Run</strong> is available for Android devices. You can download it from the <a href=\"https://play.google.com/store/apps/details?id=com.dhimanp.EscapeRun\" target=\"_blank\">Google Play Store</a>. We are exploring options for releasing the game on iOS and web platforms in the future."
+  },
+  {
+    "serialNumber": 5,
+    "question": "Can I use your software products for free?",
+    "ans": "Yes, all of our web applications and tools offer free versions."
+  },
+  {
+    "serialNumber": 6,
+    "question": "How can I submit feedback or report a bug?",
+    "ans": "We encourage users to provide feedback to help us improve our products. You can submit feedback through our <strong>Feedback</strong> chat icon located at the bottom right corner. If you encounter a bug, please provide as much detail as possible, including steps to reproduce the issue and any screenshots that may help us identify the problem."
+  },
+  {
+    "serialNumber": 7,
+    "question": "How do you handle user data and privacy?",
+    "ans": "We take privacy seriously. Any data collected through our feedback forms or web applications is handled with strict confidentiality. We do not share your information with third parties. For more details, please review our <strong><a href=\"/policies/privacy-policy\">Privacy Policy</a></strong>."
+  },
+  {
+    "serialNumber": 8,
+    "question": "Are there any tutorials or guides available for developers?",
+    "ans": "Yes, we often publish tutorials and guides on our blogs, covering various aspects of web development, game development, and software integration. Check out our <a href=\"blogs\">Blogs</a> section for the latest posts."
+  },
+  {
+    "serialNumber": 9,
+    "question": "Do you offer open-source projects?",
+    "ans": "No, right now we do not offer open-source projects."
+  },
+  {
+    "serialNumber": 10,
+    "question": "How often do you update your projects and content?",
+    "ans": "We regularly update our projects based on user feedback and new technological advancements. Blog posts are published frequently to provide fresh content, and software products receive updates as needed."
+  },
+  {
+    "serialNumber": 11,
+    "question": "How do I stay informed about new releases and updates?",
+    "ans": "You can stay up-to-date by:<ul><li>Checking the <strong><a href=\"/blogs\">Blogs</a></strong> and <strong>Notifications</strong> sections for announcements and updates.</li></ul>"
+  },
+  {
+    "serialNumber": 12,
+    "question": "Are your web applications mobile-friendly?",
+    "ans": "Yes, most of our web applications are designed to be responsive and work well on mobile devices."
+  },
+  {
+    "serialNumber": 13,
+    "question": "Do you offer custom software development services?",
+    "ans": "No, right now we are not offer custom web and software development services."
+  },
+  {
+    "serialNumber": 14,
+    "question": "How can I contact you directly?",
+    "ans": "For any inquiries, you can visit our <strong><a href=\"/contact-us\">Contact Us</a></strong> page."
+  },
+  {
+    "serialNumber": 15,
+    "question": "What’s next for dhimanp.com?",
+    "ans": "We have exciting plans for the future, including new game releases, advanced web applications, and expanded blog content. Stay tuned for updates and announcements!"
+  }
+]
