@@ -218,7 +218,7 @@
     },
     {
         "id": "15",
-        "title": "InternetSpeedTest",
+        "title": "Internet Speed Test",
         "routerLink": "/store/apps/internet-speed-test",
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/internet-speed-test/internet-speed-test-icon.webp",
         "type": "App",
@@ -246,7 +246,7 @@
     },
     {
         "id": "17",
-        "title": "PasswordGenerator",
+        "title": "Password Generator",
         "routerLink": "/store/apps/password-generator",
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/password-generator/password-generator-icon.webp",
         "type": "App",
@@ -261,7 +261,7 @@
     },
     {
         "id": "18",
-        "title": "Guid-Generator",
+        "title": "Guid Generator",
         "routerLink": "/store/apps/guid-generator",
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/guid-generator/guid-generator-icon.webp",
         "type": "App",
