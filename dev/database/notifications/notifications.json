@@ -17,7 +17,7 @@
         "time": "2025-04-14T00:00:00.000Z",
         "severity": 4,
         "url": "/store",
-        "isDeleted": false,
+        "isDeleted": true,
         "senderName": "dhimanp"
     }
 ]
