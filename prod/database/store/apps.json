@@ -281,5 +281,19 @@
         ],
         "priceModel": "Free",
         "cta": "ExploreNow"
+    },
+     {
+        "id": "19",
+        "title": "GSTR 2B Excel Reconciliation",
+        "routerLink": "/store/apps/gstr-2b-reconciliation",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/prod/images/apps/gstr-2b-reconciliation/gstr-2b-reconciliation-app-icon.webp",
+        "type": "App",
+        "shortDescription": "Reconciliation GSTR 2B Excel File.",
+        "category": "Productivity",
+        "tags": [
+            "GSTR 2B"
+        ],
+        "priceModel": "Free",
+        "cta": "ExploreNow"
     }
 ]
