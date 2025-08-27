@@ -274,7 +274,7 @@
         "priceModel": "Free",
         "cta": "ExploreNow"
     },
-     {
+    {
         "id": "19",
         "title": "GSTR 2B Excel Reconciliation",
         "routerLink": "/store/apps/gstr-2b-reconciliation",
