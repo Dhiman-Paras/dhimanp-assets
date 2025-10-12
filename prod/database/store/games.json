@@ -1,0 +1,56 @@
+[
+    {
+        "id": "12",
+        "title": "Escape Run",
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.EscapeRun",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/prod/images/apps/escape-run/escape-run-icon.webp",
+        "type": "Game",
+        "shortDescription": "An endless runner video game",
+        "category": "Arcade",
+        "cta": "InstallFromPlayStore",
+        "tags": [
+            "Arcade",
+            "Game",
+            "Play Store"
+        ],
+        "priceModel": "Free",
+        "rating": 4.7,
+        "isAndroidApp": true
+    },
+    {
+        "id": "13",
+        "title": "PinBall Planet",
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.PinBallPlanet",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/prod/images/apps/pinball-planet/pinball-planet-icon.webp",
+        "type": "Game",
+        "shortDescription": "Pinball games for android prodices",
+        "category": "Arcade",
+        "cta": "InstallFromPlayStore",
+        "tags": [
+            "Pinball",
+            "Game",
+            "Play Store"
+        ],
+        "priceModel": "Free",
+        "rating": 5,
+        "isAndroidApp": true
+    },
+    {
+        "id": "14",
+        "title": "Guessing The Number",
+        "url": "https://play.google.com/store/apps/details?id=com.dhimanp.GuessingTheNumber",
+        "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/prod/images/apps/guessing-the-number/guessing-the-number-icon.webp",
+        "type": "Game",
+        "shortDescription": "A fun number-guessing game for learning to counting!",
+        "category": "Educational",
+        "cta": "InstallFromPlayStore",
+        "tags": [
+            "Educational",
+            "Game",
+            "Play Store"
+        ],
+        "priceModel": "Free",
+        "rating": 4.4,
+        "isAndroidApp": true
+    }
+]

@@ -1,7 +1,7 @@
 {
     "id": "2",
     "title": "QR Code Generator",
-    "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/prod/images/apps/qr-code-generator/qr-code-generator-icon.webp",
+    "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/qr-code-generator/qr-code-generator-icon.webp",
     "version": "1.0.0",
     "rating": 5,
     "developer": "dhimanp",
