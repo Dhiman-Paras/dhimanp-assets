@@ -36,7 +36,7 @@
     {
         "id": "count-my-cash",
         "appId": "count-my-cash",
-        "title": "Count My Cash",
+        "title": "CountMyCash",
         "featuredText": "Take control of your finances!",
         "priority": 3,
         "isTextOnly": true,

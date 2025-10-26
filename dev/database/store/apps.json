@@ -33,7 +33,7 @@
         "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash",
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/loan-calculator-icon.webp",
         "type": "App",
-        "shortDescription": "Loan Calculator | Count My Cash",
+        "shortDescription": "Loan Calculator | CountMyCash",
         "category": "Productivity Tools",
         "cta": "InstallFromPlayStore",
         "tags": [
@@ -49,7 +49,7 @@
         "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash",
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/gst-calculator-icon.webp",
         "type": "App",
-        "shortDescription": "GST Calculator | Count My Cash",
+        "shortDescription": "GST Calculator | CountMyCash",
         "category": "Productivity Tools",
         "cta": "InstallFromPlayStore",
         "tags": [
@@ -65,7 +65,7 @@
         "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash",
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/cash-calculator-icon.webp",
         "type": "App",
-        "shortDescription": "Cash Calculator | Count My Cash",
+        "shortDescription": "Cash Calculator | CountMyCash",
         "category": "Productivity Tools",
         "cta": "InstallFromPlayStore",
         "tags": [
@@ -81,7 +81,7 @@
         "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash",
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/sip-calculator-icon.webp",
         "type": "App",
-        "shortDescription": "SPI Calculator | Count My Cash",
+        "shortDescription": "SPI Calculator | CountMyCash",
         "category": "Productivity Tools",
         "cta": "InstallFromPlayStore",
         "tags": [
@@ -93,7 +93,7 @@
     },
     {
         "id": "7",
-        "title": "Count My Cash",
+        "title": "CountMyCash",
         "url": "https://play.google.com/store/apps/details?id=com.dhimanp.CountMyCash",
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/count-my-cash-icon.webp",
         "type": "App",

@@ -6,7 +6,7 @@
         "content": "⭐ Don't miss out—bookmark dhimanp.com today for all the latest updates and exclusive content! 📌✨",
         "time": "2025-05-02T18:30:00.000Z",
         "severity": 0,
-        "isDeleted": false,
+        "isDeleted": true,
         "senderName": "dhimanp"
     },
     {
@@ -17,7 +17,7 @@
         "time": "2025-05-02T18:30:00.000Z",
         "severity": 4,
         "url": "/store",
-        "isDeleted": false,
+        "isDeleted": true,
         "senderName": "dhimanp"
     }
 ]
