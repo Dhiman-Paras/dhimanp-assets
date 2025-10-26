@@ -7,7 +7,7 @@
         "type": "Daily Hub",
         "shortDescription": "Read insightful blogs & articles.",
         "cta": "UseNow",
-        "category": "Reading & Knowledge",
+        "category": "Social",
         "tags": [
             "Birthday Wishes"
         ],
@@ -20,7 +20,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/qr-code-generator/qr-code-generator-icon.webp",
         "type": "App",
         "shortDescription": "Generate QR codes easily.",
-        "category": "Productivity",
+        "category": "Productivity Tools",
         "tags": [
             "QR Code"
         ],
@@ -34,7 +34,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/loan-calculator-icon.webp",
         "type": "App",
         "shortDescription": "Loan Calculator | Count My Cash",
-        "category": "Productivity",
+        "category": "Productivity Tools",
         "cta": "InstallFromPlayStore",
         "tags": [
             "Finances"
@@ -50,7 +50,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/gst-calculator-icon.webp",
         "type": "App",
         "shortDescription": "GST Calculator | Count My Cash",
-        "category": "Productivity",
+        "category": "Productivity Tools",
         "cta": "InstallFromPlayStore",
         "tags": [
             "Finances"
@@ -66,7 +66,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/cash-calculator-icon.webp",
         "type": "App",
         "shortDescription": "Cash Calculator | Count My Cash",
-        "category": "Productivity",
+        "category": "Productivity Tools",
         "cta": "InstallFromPlayStore",
         "tags": [
             "Finances"
@@ -82,7 +82,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/sip-calculator-icon.webp",
         "type": "App",
         "shortDescription": "SPI Calculator | Count My Cash",
-        "category": "Productivity",
+        "category": "Productivity Tools",
         "cta": "InstallFromPlayStore",
         "tags": [
             "Finances"
@@ -98,7 +98,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/count-my-cash/count-my-cash-icon.webp",
         "type": "App",
         "shortDescription": "Loan, GST, Cash, SIP Calculators.",
-        "category": "Productivity",
+        "category": "Productivity Tools",
         "cta": "InstallFromPlayStore",
         "tags": [
             "Finances"
@@ -114,7 +114,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/learn-gst-challan/learn-gst-challan-icon.webp",
         "type": "App",
         "shortDescription": "Master GST challan generation.",
-        "category": "Education & Learning",
+        "category": "Educational",
         "tags": [
             "Education",
             "Learning",
@@ -130,7 +130,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/motivational-quotes/motivational-quotes-icon.webp",
         "type": "Daily Hub",
         "shortDescription": "Daily inspiration for success.",
-        "category": "Inspiration & Motivation",
+         "category": "Health & Fitness",
         "tags": [
             "Inspiration",
             "Motivation"
@@ -145,7 +145,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/birthday-wishes/birthday-wishes-icon.webp",
         "type": "Daily Hub",
         "shortDescription": "Creative birthday messages.",
-        "category": "Special Occasions",
+         "category": "Social",
         "tags": [
             "Birthday Wishes"
         ],
@@ -159,7 +159,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/quick-file-saver/quick-file-saver-icon.webp",
         "type": "App",
         "shortDescription": "Save text & code files instantly",
-        "category": "Productivity",
+        "category": "Productivity Tools",
         "tags": [
             "Text-to-Speech",
             "Notes",
@@ -177,7 +177,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/internet-speed-test/internet-speed-test-icon.webp",
         "type": "App",
         "shortDescription": "Check your internet speed instantly.",
-        "category": "Productivity",
+        "category": "Productivity Tools",
         "tags": [
             "Internet Speed Test"
         ],
@@ -191,10 +191,10 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/courses/courses-icon.webp",
         "type": "Daily Hub",
         "shortDescription": "Explore courses for career growth.",
-        "category": "Reading & Knowledge",
+        "category": "Educational",
         "cta": "UseNow",
         "tags": [
-            "Birthday Wishes"
+            "Education"
         ],
         "priceModel": "Free"
     },
@@ -205,7 +205,7 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/password-generator/password-generator-icon.webp",
         "type": "App",
         "shortDescription": "Generate strong & secure passwords.",
-        "category": "Productivity",
+        "category": "Productivity Tools",
         "tags": [
             "Security",
             "Password Generator"
@@ -220,10 +220,10 @@
         "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/guid-generator/guid-generator-icon.webp",
         "type": "App",
         "shortDescription": "Create unique GUIDs effortlessly.",
-        "category": "Productivity",
+        "category": "Productivity Tools",
         "tags": [
             "Development",
-            "Productivity"
+            "Productivity Tools"
         ],
         "priceModel": "Free",
         "cta": "UseNow"
