@@ -1,0 +1,20 @@
+{
+    "id": "1",
+    "title": "Blogs",
+    "featureIconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/Images/blogs/blogs.webp",
+    "iconLg": "https://raw.githubusercontent.com/Dhiman-Paras/dhimanp-assets/main/dev/images/apps/blogs/blogs-icon.webp",
+    "version": "1.0.0",
+    "rating": 5,
+    "developer": "dhimanp",
+    "publishedDate": "",
+    "lastUpdate": "",
+    "whatsNew": "",
+    "longDescription": "<p>this is&nbsp;</p><p>the sample</p><p>description</p>",
+    "youtubeUrl": "",
+    "mobileScreenshots": [
+        ""
+    ],
+    "desktopScreenshots": [
+        ""
+    ]
+}
